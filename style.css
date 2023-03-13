@@ -51,8 +51,8 @@ body{
 }
 .list{
     display: flex;
-    gap: 75px;
-    margin-left: 25px;
+    gap: 55px;
+    margin-left: 50px;
     list-style: none;
     
 }
@@ -65,7 +65,7 @@ body{
 }
 .time{
     display: flex;
-    gap: 10px;
+    gap: 5px;
     list-style: none;
 }
 .list-time{
