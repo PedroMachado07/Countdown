@@ -5,7 +5,7 @@
 A project made to count down from a set date!
 
 ## Layout 
-![Web 1](https://github.com/PedroMachado07/Quiz-Game/blob/master/quiz-img.png)
+![Web 1](https://github.com/PedroMachado07/Countdown/blob/master/images/countdownimg.png)
 
 
 
